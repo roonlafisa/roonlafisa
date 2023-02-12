@@ -2,10 +2,6 @@
 I am an RF Engineer keen on learning new things everyday. My github profile is still a work in progress, so please bear with it. You may check out my [resume](https://github.com/roonlafisa/LaTeX-Resume/blob/37b7b3c4ae97a9f051c821658840f601e905f553/Asif_Al_Noor___Resume.pdf)
 to get a summary of my experiences. 
 
-<!--
-**roonlafisa/roonlafisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 * [A breakout board fot STM32 with SD Card feature](https://github.com/roonlafisa/omoko_MCU) 
@@ -20,6 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 Email: roonlafisa@gmail.com
 
--->
 
 
