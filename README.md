@@ -1,8 +1,13 @@
 ### Hi there 👋
-I am an RF Engineer keen on learning new things everyday. My github profile is still a work in progress, so please bear with it. You may check out my [resume](https://github.com/roonlafisa/LaTeX-Resume/src/blob/37b7b3c4ae97a9f051c821658840f601e905f553/Asif_Al_Noor___Resume.pdf)
+I am an System Integration Engineer skilled in developing RF system and avionics hardware for space and aviation applications. My github profile is still a work in progress, so please bear with it. You may check out my [resume](https://github.com/roonlafisa/LaTeX-Resume/src/blob/37b7b3c4ae97a9f051c821658840f601e905f553/Asif_Al_Noor___Resume.pdf)
 to get a summary of my experiences. 
 
-In short, I have extensive RF system design experience for IoT, cubesats, and rockets. More recently, I had the chance to pick up System Engineering experience when I led the design and development of a full-stack (design to assembly) avionics system for an orbital-scale rocket. 
+Here are four quick things about my professional experience (updated May 2023):
+
+1) I have developed end-to-end RF systems for IoT, CubeSats, and rockets spanning over six years.
+2) I have designed, assembled, integrated and tested avionics hardware for drones and rockets for three years. 
+3) I love learning about new standards (connectors, tests, communication, etc.).
+4) Throughout my career, I have consistently embraced new technical challenges. Though they may be difficult at first, the end result has always been rewarding.
 
 ### 🔭 I’m currently working on ...
 * [A breakout board fot STM32 with SD Card feature](https://github.com/roonlafisa/omoko_MCU) 
