@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am an System Integration Engineer skilled in developing RF system and avionics hardware for space and aviation applications. My github profile is still a work in progress, so please bear with it. You may check out my [resume](https://github.com/roonlafisa/LaTeX-Resume/src/blob/37b7b3c4ae97a9f051c821658840f601e905f553/Asif_Al_Noor___Resume.pdf)
+I am a System Integration Engineer skilled in developing RF system and avionics hardware for space and aviation applications. My github profile is still a work in progress, so please bear with it. You may check out my [resume](https://github.com/roonlafisa/LaTeX-Resume/src/blob/37b7b3c4ae97a9f051c821658840f601e905f553/Asif_Al_Noor___Resume.pdf)
 to get a summary of my experiences. 
 
 Here are four quick things about my professional experience (updated May 2023):
